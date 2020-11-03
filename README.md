@@ -1,2 +1,2 @@
 # Power_BI
-Power BI dashboards and reports. 
+This repository is meant to host some of my Power BI dashboards and reports. 
