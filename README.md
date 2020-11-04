@@ -192,3 +192,7 @@ It could also highlight implementation issues so present these records as such.
 In general there should be no tickets without due dates and any that are should be marked as incomplete as there should be no tickets without a time frame.
 
 I hope these questions help you structure your thought process and also in terms of handling the data.
+
+### 9-
+
+### 10-
