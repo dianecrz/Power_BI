@@ -156,7 +156,6 @@ There are 3 key things we want to see:
 Note: Remember that the data is coming from three different sources so there is no existing keys or relationships between the tables
 
 ### 8- Jira IT service Desk Analysis
-So this week’s challenge is around a system that I’m sure many of us use and have heard of, Jira.
 
 Jira is a major player and a core tool used by many organisations whether it’s to support agile development or manage service desk tickets.
 
@@ -193,6 +192,12 @@ In general there should be no tickets without due dates and any that are should 
 
 I hope these questions help you structure your thought process and also in terms of handling the data.
 
-### 9-
+### 9- Currency Conversion and More
+
+The ask is to produce a report from the data above that gives the user the ability to select a currency and see the associated sales and cost.
+
+The user wants the ability to know the conversion rate that has been used. This can be an average value.
+
+Highlight any issues with the data.
 
 ### 10-
